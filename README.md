@@ -3,6 +3,8 @@
 This project was originally a draft and will not be used.
 It provides users with the ability to submit there loads / jobs from the popular game Euro Truck Simulator 2.
 
+It should be noted that this code is by no means secure or production ready. It's actually still missing some important features such as an admin area to approve jobs without the need to edit the database directly.
+
 Dashboard
 ![Image1](https://i.imgur.com/BQrdpbi.png)
 
