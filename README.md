@@ -19,6 +19,8 @@ Submit Delivery
 
 4) Edit the database table called users and add / edit as required.
 
+5) Edit the /auth/connection.php (Starts Line 3) and /auth/submit.php (Starts Line 31) and enter your MySQL information.
+
 # FAQ
 
 1) How do I approve a job?
